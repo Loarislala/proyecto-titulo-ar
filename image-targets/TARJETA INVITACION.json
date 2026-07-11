@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 88,
+    "width": 531,
+    "height": 709,
+    "isRotated": false,
+    "originalWidth": 709,
+    "originalHeight": 709
+  },
+  "imagePath": "image-targets/TARJETA INVITACION_luminance.png",
+  "metadata": null,
+  "name": "TARJETA INVITACION",
+  "resources": {
+    "originalImage": "TARJETA INVITACION_original.png",
+    "croppedImage": "TARJETA INVITACION_cropped.png",
+    "thumbnailImage": "TARJETA INVITACION_thumbnail.png",
+    "luminanceImage": "TARJETA INVITACION_luminance.png"
+  },
+  "created": 1783726168082,
+  "updated": 1783726168082
+}
